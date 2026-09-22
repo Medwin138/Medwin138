@@ -37,9 +37,13 @@
 
 <div align="center">
 
-[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Medwin138&show_icons=true&theme=midnight-purple&locale=es&count_private=true&hide_border=true)](https://github.com/Medwin138)
+[![Seguidores](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FMedwin138&query=followers&style=for-the-badge&color=6e5494&label=Seguidores&logo=github&logoColor=white)](https://github.com/Medwin138)
 
-[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Medwin138&layout=compact&theme=midnight-purple&locale=es&hide_border=true)](https://github.com/Medwin138)
+[![Repositorios](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FMedwin138&query=public_repos&style=for-the-badge&color=24292e&label=Repos&logo=github&logoColor=white)](https://github.com/Medwin138)
+
+[![Estrellas](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2FMedwin138%2Fpdf-herramienta&query=stargazers_count&style=for-the-badge&color=D32F2F&label=Estrellas&logo=github&logoColor=white)](https://github.com/Medwin138/pdf-herramienta)
+
+[![Lenguaje principal](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2FMedwin138%2Fpdf-herramienta&query=language&style=for-the-badge&color=7F52FF&label=Lenguaje&logo=kotlin&logoColor=white)](https://github.com/Medwin138/pdf-herramienta)
 
 </div>
 
