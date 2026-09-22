@@ -49,7 +49,6 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Medwin138-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Medwin138)&nbsp;
-[![Email](https://img.shields.io/badge/Email-Escríbeme-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:milleredwin.dev@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Medwin138-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Medwin138)
 
 </div>
